@@ -17,7 +17,6 @@ View my portfolio site at <a target="_blank"> </a>
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bootstrap" width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="Redux"  src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" height="50" width="120"/>
 <br />
 <br />
 <hr />
