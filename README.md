@@ -1,6 +1,6 @@
 ### Hi there Anisul Hoque Khan here 👋
 
-I'm a frontend developer specialising in React.
+I'm a passionate and motivated DevOps Enginner with frontend development background specialising in React.
 I enjoy building responsive, clean websites, learning new things .
 
 - 🔭 Working on personal projects
