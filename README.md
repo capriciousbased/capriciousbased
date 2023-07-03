@@ -6,7 +6,7 @@ I enjoy building responsive, clean websites, learning new things .
 - 🔭 Working on personal projects
 - 🌱 Learning Full Stack Web Development.
 - 📫 Contact: mdkhan@gmx.de
-- Portfolio site: https://capriciousbased.github.io/portfolio/#/
+- Portfolio site: https://capriciousbased.github.io/anis.khan/#/
 
 View my portfolio site at <a target="_blank"> </a>
 
